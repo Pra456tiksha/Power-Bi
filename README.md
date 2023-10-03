@@ -1,1 +1,5 @@
-# Power-Bi
+Power Bi Project: Amazon Product Sales Dataset
+•	Project Objective: Analyse and visualize the sales data of Amazon products of 1000 records to gain insights into customer behaviour and product trend from year 2015 to 2019 by using Power Bi tool
+•	Technical skills used: Data cleaning, ETL (Extract, Transform, Load), DAX functions, 10 requirements on dataset, Dashboard and Interactive reports
+•	Results: From the analysis of the Amazon Product Sales Dataset, several conclusions can be drawn. The yearly and monthly top 5 high sale products and top 5 low sale products exhibit variations based on region, category, and sub-category. The analysis also takes into consideration the impact of different ship modes on sales. Furthermore, the maximum sale value across the dataset is determined, providing additional insights into the dataset. By presenting the findings through visualizations such as graphs, charts, and tables, the project enables a comprehensive understanding of customer behaviour and product trends in the given dataset.
+C:\Users\dell\OneDrive\Pictures\Screenshots\Coloured_3.png
